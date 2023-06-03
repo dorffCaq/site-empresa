@@ -370,6 +370,151 @@ footer {
     text-align: center;
     width: 120px;
   }
+.footer-image img {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 10px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  transition: transform 0.3s;
+  display: block;
+  margin: 0 auto; /* Ajustado para centralizar horizontalmente */
+}
+header {
+  background-color: #1f2935;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+}
+
+header img {
+  width: 200px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+header h1 {
+  font-size: 28px;
+  color: #fff;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+nav ul {
+  list-style-type: none;
+  margin-top: 10px;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+nav ul li a:hover {
+  color: #ff4654;
+}
+header {
+  background-color: #1f2935;
+  padding: 40px;
+  text-align: center;
+}
+
+header img {
+  width: 150px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 36px;
+  color: #fff;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin-top: 20px;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px;
+  font-size: 18px;
+  transition: color 0.3s;
+}
+
+nav ul li a:hover {
+  color: #ff4654;
+}
+header {
+  background-color: #1f2935;
+  padding: 40px;
+  text-align: center;
+}
+
+header img {
+  width: 150px;
+  height: auto;
+  margin-bottom: 20px;
+  transition: transform 0.3s ease-in-out;
+}
+
+header img:hover {
+  transform: rotate(360deg);
+}
+
+header h1 {
+  font-size: 36px;
+  color: #fff;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  transition: color 0.3s ease-in-out;
+}
+
+header h1:hover {
+  color: #ff4654;
+}
+
+nav ul {
+  list-style-type: none;
+  margin-top: 20px;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px;
+  font-size: 18px;
+  transition: color 0.3s ease-in-out;
+}
+
+nav ul li a:hover {
+  color: #ff4654;
+  transform: scale(1.2);
+}
+
       
   
   

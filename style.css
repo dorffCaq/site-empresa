@@ -42,7 +42,7 @@ nav a {
 }
 
 nav a:hover {
-	color: #ff4654;
+	color: gray;
 }
 
 main {
@@ -75,17 +75,17 @@ li {
 /* Estilos específicos para a seção da Reyna */
 
 #reyna {
-	border-top: 2px solid #ff4654;
+	border-top: 2px solid purple;
 	padding-top: 40px;
 }
 
 #reyna h2 {
-	color: #ff4654;
+	color: purple;
 }
 
 #reyna ol li:before {
 	content: "➤";
-	color: #ff4654;
+	color: purple;
 	margin-right: 10px;
 }
 
@@ -233,7 +233,7 @@ footer {
   }
   
   .highlight {
-    color: #ff4654;
+    color: gray;
   }
   
   .row {
@@ -489,7 +489,7 @@ header h1 {
 }
 
 header h1:hover {
-  color: #ff4654;
+  color: gray;
 }
 
 nav ul {
@@ -511,8 +511,14 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #ff4654;
+  color: gray;
   transform: scale(1.2);
+}
+header h1{
+  padding-bottom: 40px;
+}
+header ul li{
+  color: gray;
 }
 
       

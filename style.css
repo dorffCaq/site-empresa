@@ -516,10 +516,17 @@ nav ul li a:hover {
 }
 header h1{
   padding-bottom: 40px;
+  color: #ff4654;
 }
 header ul li{
   color: gray;
+  padding: 20px;
 }
+header a{
+  color: #ff4654;
+} 
+
+
 
       
   
